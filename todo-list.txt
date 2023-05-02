@@ -2,3 +2,5 @@ MONTHLY DO's
 1.pay rent
 2.dog food
 3.make cheese
+4.make food
+5.hike
